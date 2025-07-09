@@ -14,9 +14,31 @@
 ```bash
 /
 ├── notebooks/  
-│   ├── 1-fundamentals/          # EDA, preprocessing, classic algorithms  
-│   ├── 2-advanced-topics/       # Autograd, neural networks, NLP  
-│   └── 3-integrated-projects/   # End-to-end pipelines  
-├── datasets/                    # Local data (if applicable)  
-├── scripts/                     # Helper Python modules  
-└── reports/                     # PDFs/slides (academic submissions)  
+    ├── 1-fundamentals/          # EDA, preprocessing, classic algorithms  
+    ├── 2-advanced-topics/       # Autograd, neural networks, NLP  
+    └── 3-integrated-projects/   # End-to-end pipelines  
+
+```
+
+## 🤝 🌱 How to Contribute + Learn Together  
+
+*"I'm learning more every day! Let's grow together!"*  
+
+### 🐞 **Report Issues**  
+Found a bug or confusing part? Help me improve by opening an **Issue** with:  
+- What you tried to do  
+- What went wrong (screenshots welcome!)  
+- Suggestions if you have any  
+
+### 💡 **Suggest Enhancements**  
+💬 Ideas to make notebooks clearer or more practical?  
+- Tag as `[Feature Request]`  
+- Share examples/references (academic or from blogs)
+
+✨ Note:
+
+I’m not a professional, just passionate about ML/DS!
+
+---
+
+Made with ❤️ by @alekswheeler
