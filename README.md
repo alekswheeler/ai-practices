@@ -41,4 +41,4 @@ I’m not a professional, just passionate about ML/DS!
 
 ---
 
-Made with ❤️ by @alekswheeler
+Made with ❤️ by ![@alekswheeler](https://alekswheeler.github.io/portfolio/)
