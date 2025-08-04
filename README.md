@@ -37,8 +37,8 @@ Found a bug or confusing part? Help me improve by opening an **Issue** with:
 
 ✨ Note:
 
-I’m not a professional, just passionate about ML/DS!
+I’m not a professional, just passionate about ML/DS! 
 
 ---
 
-Made with ❤️ by @alekswheeler
+Made with ❤️ by @alekswheeler :)
